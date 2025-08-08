@@ -1,7 +1,6 @@
-tensorflow
+streamlit
 numpy
 pandas
-streamlit
-pickle
+tensorflow==2.14.0
+keras==2.14.0
 tensorboard
-keras
